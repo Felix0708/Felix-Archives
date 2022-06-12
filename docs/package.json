@@ -1,0 +1,19 @@
+{
+  "name": "Felix Archives",
+  "version": "0.0.1",
+  "description": "It&#39;s a Felix&#39;s space where can freely record study or anything.",
+  "main": "index.js",
+  "authors": {
+    "name": "Dongchul Lee",
+    "email": "donguri9378@gmail.com"
+  },
+  "repository": "Felix Archives/Felix Archives",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
